@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apigateway-service/api-gateway-service.iml" filepath="$PROJECT_DIR$/apigateway-service/api-gateway-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commande-service/commande-service.iml" filepath="$PROJECT_DIR$/commande-service/commande-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ecom-microservices.iml" filepath="$PROJECT_DIR$/ecom-microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inventaire-service/inventaire-service.iml" filepath="$PROJECT_DIR$/inventaire-service/inventaire-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/produit-service/produit-service.iml" filepath="$PROJECT_DIR$/produit-service/produit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/review-service/review-service.iml" filepath="$PROJECT_DIR$/review-service/review-service.iml" />
+    </modules>
+  </component>
+</project>
